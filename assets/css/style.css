@@ -93,26 +93,16 @@ p {
     color: #ffffff;
 }
 
-<!-- Reduced to single benefit h3 selector  -->
+<!-- Consolidate benefit h3 to single selector -->
 
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+<!-- Consolidate benefit img to single selector -->
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
