@@ -107,6 +107,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 <!-- Classes for search-engine-optimization, online-reputation-management, social-media-marketing changed to single selector benefit-box -->
 
 .benefit-box {
@@ -118,15 +119,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.benefit-box img {
     max-height: 200px;
 }
 
