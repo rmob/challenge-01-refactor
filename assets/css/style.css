@@ -107,26 +107,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+<!-- Classes for search-engine-optimization, online-reputation-management, social-media-marketing changed to single selector benefit-box -->
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.benefit-box {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
