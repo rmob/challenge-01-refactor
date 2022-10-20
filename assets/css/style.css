@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-<!--Changed from benefit-lead benefit-brand benefit-cost to single class selector -->
+/* Changed from benefit-lead benefit-brand benefit-cost to single class selector */
 
 .benefit {
     margin-bottom: 32px;
