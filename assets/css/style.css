@@ -86,32 +86,9 @@ p {
     background-color: #2589bd;
 }
 
-/* Changed from benefit-lead benefit-brand benefit-cost to single class selector */
-
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* Consolidate benefit h3 to single selector */
-
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Consolidate benefit img to single selector */
-
-.benefit img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Classes for search-engine-optimization, online-reputation-management, social-media-marketing
-changed to single selector benefit-box */
-
-.benefit-box {
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -120,13 +97,40 @@ changed to single selector benefit-box */
     color: #ffffff;
 }
 
-.benefit-box img {
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img {
     max-height: 200px;
 }
 
-.benefit-box h2 {
+
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing,  h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.benefit-lead,
+.benefit-brand,
+.benefit-cost  {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead,
+.benefit-brand,
+.benefit-cost h3  {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-lead,
+.benefit-brand,
+.benefit-cost, img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 .footer {
