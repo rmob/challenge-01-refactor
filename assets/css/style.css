@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Title and Navbar */
+
 
 .header {
     padding: 20px;
@@ -78,13 +80,16 @@ p {
     margin-left: 25px;
 }
 
+
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Main Content */
+
+/* Main Sections */
 
 
 .benefits {
@@ -148,6 +153,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer */
 
 .footer {
     padding: 30px;
