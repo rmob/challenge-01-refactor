@@ -56,6 +56,9 @@ p {
     font-size: 16px;
 }
 
+/* Main picture */
+
+
 .hero {
     height: 800px;
     width: 100%;
@@ -80,6 +83,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Main Content */
+
 
 .benefits {
     margin-right: 20px;
@@ -116,6 +122,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* Aside */
+
 
 .benefit-lead,
 .benefit-brand,
